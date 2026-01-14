@@ -1,35 +1,35 @@
-# Let’s understand what we breathe with Air-o-Walk
+# Conozcamos qué respiramos con Air-o-Walk
 
-Welcome to the Air-o-Walk GitHub organization! We’re happy to have you here. Below you’ll find an overview of our active projects and repositories:
+¡Bienvenido a la organización de GitHub de Air-o-Walk! Nos alegra tenerte aquí. A continuación, te presentamos un resumen de nuestros proyectos y repositorios en desarrollo:
 
-## Description
+## Descripción
 
-Air-o-Walk is an organization dedicated to making people aware of the real quality of the air they breathe, supported by people like you. We are building a CloudSensing community that is finally conscious of what they are actually breathing every day.
+Air-o-Walk es una organización comprometida con informar a las personas sobre la verdadera calidad del aire que respiran, con la ayuda de personas como tú. Estamos construyendo una comunidad de CloudSensing que por fin es consciente de qué está respirando.
 
-### Problem Solved
+### Problema que resuelve
 
-A large number of people are not aware of the true air quality around them. Conventional air quality monitoring stations are usually widely spaced and fail to deliver localized information. This project enables real-time, hyperlocal air quality monitoring, helping individuals make better decisions regarding their outdoor activities and overall health.
+Muchas personas desconocen la calidad real del aire en su entorno inmediato. Las estaciones tradicionales de monitoreo de calidad del aire suelen estar muy separadas entre sí y no ofrecen datos localizados. Este proyecto permite la monitorización de la calidad del aire en tiempo real y a nivel hiperlocal, ayudando a las personas a tomar decisiones informadas sobre sus actividades al aire libre y su salud.
 
-## Our Repositories
+## Nuestros Repositorios
 
-### [Arduino Integration](https://github.com/Air-o-Walk/arduino)
+### [Integración con Arduino](https://github.com/Air-o-Walk/arduino)
 
-This repository includes the software used by our Arduino sensors, which collect essential data and send it to our mobile application.
+Este repositorio contiene el software de nuestros sensores Arduino, encargados de recopilar información crítica y transmitirla a nuestra aplicación móvil.
 
-### [Android App](https://github.com/Air-o-Walk/android)
+### [Aplicación Android](https://github.com/Air-o-Walk/android)
 
-This repository contains the development of our Android application, focused on providing innovative solutions for data acquisition and transmission within our platform.
+Este repositorio alberga el desarrollo de nuestra aplicación Android, diseñada para ofrecer soluciones innovadoras relacionadas con la recopilación y transmisión de datos dentro de la plataforma.
 
-### [Backend Services](https://github.com/Air-o-Walk/server)
+### [Servicios Backend](https://github.com/Air-o-Walk/server)
 
-Here you will find the main server-side code, responsible for handling data flow and communication between the mobile app, the server, and the database.
+Aquí se encuentra el código principal del servidor, responsable de gestionar el flujo de datos y la comunicación entre la aplicación móvil, el servidor y la base de datos.
 
-### [Web Interface](https://github.com/Air-o-Walk/frontend)
+### [Interfaz Web](https://github.com/Air-o-Walk/frontend)
 
-In this repository, we develop a user-friendly web application that allows users to access, explore, and visualize the collected data efficiently.
+En este repositorio estamos desarrollando una aplicación web intuitiva que permite a los usuarios acceder, visualizar y analizar los datos recopilados de forma eficiente.
 
 #
 
-We are continuously evolving and improving our systems, and we greatly value contributions from the community. If you’re interested in collaborating or have suggestions, feel free to reach out!
+Estamos en constante evolución y mejora de nuestros sistemas, y valoramos enormemente las contribuciones de la comunidad. Si te interesa colaborar o tienes alguna sugerencia, ¡no dudes en ponerte en contacto con nosotros!
 
-Thank you for visiting Air-o-Walk on GitHub. We truly appreciate your interest and support in our mission.
+Gracias por visitar Air-o-Walk en GitHub. Apreciamos sinceramente tu interés y apoyo a nuestra misión.
